@@ -35,5 +35,4 @@ It provides a short description of what they are, what they are used for and the
 ### **HTML**
 <!-- [Syntaxsage-tech1]will write this section -->
 
-## Contribution by Chanel Chesem 
-Added as part of Task 4 collaboration practise.
+## Contribution by Chanel Chesem .Brief overview of javascript and its uses
