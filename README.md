@@ -24,7 +24,7 @@ It provides a short description of what they are, what they are used for and the
 
 
 ### **Python**
-<!-- {gatukusimon6-stack]will write this section -->
+<!-- [gatukusimon6-stack]will write this section -->
 
 ### **Java**
 <!-- [Chesemchanel]will write this section -->
