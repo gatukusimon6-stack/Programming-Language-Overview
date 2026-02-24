@@ -1,7 +1,7 @@
 # Programming languages Overview
 
 This repository is a collaborative mini knowledge base created by a team of four members:
-(`gatukusimon6-stack`, `Chesemchanel`, `Lamboshe`, `SyntaxSage-tech1`).
+(`gatukusimon6-stack`, `Chesemchanel`, `Lamboshe`, `SyntaxSage-tech1`, `wanguilucy905-byte`).
 
 Each member is responsibale for one programming language.
 
@@ -13,6 +13,7 @@ Each member is responsibale for one programming language.
 - [JavaScript](#javascript)
 - [Java](#java)
 - [HTML](#html)
+- [CSS](#CSS)
 
 ---
 
@@ -57,12 +58,12 @@ Many global tech companies use Python in production systems.
 Millions of developers contribute to libraries and frameworks.
 
 ✔ **Fast Development Speed**:
-Python allows developers to build prototypes and applications quickly.
-
----
 
 ### **Java**
 <!-- [Chesemchanel]will write this section -->
+
+### **CSS**
+<!-- [wanguilucy905-byte]will write this section -->
 
 ### **Javascript**
 <!-- [Lamboshe]wiil write this section -->
