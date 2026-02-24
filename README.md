@@ -13,6 +13,7 @@ Each member is responsibale for one programming language.
 - [JavaScript](#javascript)
 - [Java](#java)
 - [HTML](#html)
+- [CSS](#CSS)
 
 ---
 
