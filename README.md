@@ -1,7 +1,7 @@
 # Programming languages Overview
 
 This repository is a collaborative mini knowledge base created by a team of four members:
-(`gatukusimon6-stack`, `Chesemchanel`, `Lamboshe`, `SyntaxSage-tech1`).
+(`gatukusimon6-stack`, `Chesemchanel`, `Lamboshe`, `SyntaxSage-tech1`, `wanguilucy905-byte`).
 
 Each member is responsibale for one programming language.
 
@@ -28,6 +28,9 @@ It provides a short description of what they are, what they are used for and the
 
 ### **Java**
 <!-- [Chesemchanel]will write this section -->
+
+### **CSS**
+<!-- [wanguilucy905-byte]will write this section -->
 
 ### **Javascript**
 <!-- [Lamboshe]wiil write this section -->
