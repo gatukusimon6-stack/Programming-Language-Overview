@@ -24,9 +24,9 @@ It provides a short description of what they are, what they are used for and the
 ---
 
 
-### **Python**
+## **Python**
 <!-- {gatukusimon6-stack]will write this section -->
-What is Python?
+What is Python?🤔
 
 Python is a high-level, easy-to-read programming language used to build software, websites, automate tasks, analyze data, and create artificial intelligence systems.
 
@@ -46,6 +46,8 @@ Desktop application development
 
 Game development
 
+---
+
 Importance of Python in Modern Software Development
 
 ✔ Beginner-friendly but powerful
@@ -59,9 +61,12 @@ Importance of Python in Modern Software Development
 ✔ Strong libraries and frameworks ecosystem
 
 Python is one of the most versatile and in-demand programming languages today.
-### **Java**
+
+---
+
+## **Java**
 <!-- [Chesemchanel]will write this section -->
-What is Java?
+# _Java_
 
 Java is a high-level, object-oriented programming language designed to be platform-independent.
 
@@ -79,27 +84,31 @@ Banking and financial systems
 
 Desktop software
 
+---
+
 Importance of Java
 
-✔ Platform independent (Write Once, Run Anywhere)
+- Platform independent (Write Once, Run Anywhere)
 
-✔ Highly secure and stable
+- Highly secure and stable
 
-✔ Widely used in large organizations
+- Widely used in large organizations
 
-✔ Strong performance
+- Strong performance
 
-✔ Large ecosystem and support
+- Large ecosystem and support
 
 Java remains a powerful language in enterprise software development.
 
-### **CSS**
+---
+
+## **CSS**
 <!-- [wanguilucy905-byte]will write this section -->
 What is CSS?
 
 CSS (Cascading Style Sheets) is a styling language used to design and format web pages.
 
-Uses of CSS
+### Uses of CSS
 
 CSS is used to:
 
@@ -113,7 +122,7 @@ Create responsive designs
 
 Add animations and transitions
 
-Importance of CSS
+#### Importance of CSS
 
 ✔ Makes websites visually appealing
 
@@ -126,8 +135,12 @@ Importance of CSS
 ✔ Essential for professional web design
 
 CSS transforms plain HTML into beautiful, modern websites.
-### **Javascript**
+
+---
+
+## **Javascript**
 <!-- [Lamboshe]wiil write this section -->
+### _JavaScript_
 What is JavaScript?
 
 JavaScript is a high-level programming language used to make websites interactive and dynamic.
@@ -146,23 +159,27 @@ Create browser-based games
 
 Build backend systems using Node.js
 
+---
+
 Importance of JavaScript
 
-✔ Essential for front-end web development
+1. Essential for front-end web development
 
-✔ Runs in all modern browsers
+2. Runs in all modern browsers
 
-✔ Powers modern frameworks like React, Angular, and Vue
+3. Powers modern frameworks like React, Angular, and Vue
 
-✔ Enables full-stack development
+4. Enables full-stack development
 
-✔ Large developer community
+5. Large developer community
 
 JavaScript is the backbone of modern web interactivity.
 
-### **HTML**
+---
+
+## **HTML**
 <!-- [Syntaxsage-tech1]will write this section -->
-# HTML 🌐
+# _HTML_ 🌐
 ---
 ## What is HTML 
 HTML(Hyper Text Markup Language)is the standard markup language used to create and structure contents on the website.
