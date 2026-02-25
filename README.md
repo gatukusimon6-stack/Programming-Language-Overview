@@ -79,15 +79,15 @@ HTML(Hyper Text Markup Language)is the standard markup language used to create a
 
 ## Uses
 HTML is used to:
-  >-->Structure web page content.
+  >⇒Structure web page content.
 
-  >-->Add texts, image and videos.
+  >⇒Add texts, image and videos.
 
-  >-->Create links between pages.
+  >⇒Create links between pages.
 
-  >-->Build forms for user input.
+  >⇒Build forms for user input.
 
-  >-->Organize content using sections and layouts.
+  >⇒Organize content using sections and layouts.
 
   ---
 
