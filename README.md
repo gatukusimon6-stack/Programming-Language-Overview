@@ -7,13 +7,14 @@ Each member is responsibale for one programming language.
 
 ---
 
-##Table of content
+## Table of contents
 - [Introduction](#introduction)
 - [Python](#python)
-- [JavaScript](#javascript)
 - [Java](#java)
+- [CSS](#css)
+- [JavaScript](#javascript)
 - [HTML](#html)
-
+  
 ---
 
 ##Introduction
@@ -25,48 +26,139 @@ It provides a short description of what they are, what they are used for and the
 
 ### **Python**
 <!-- {gatukusimon6-stack]will write this section -->
-# Python
+What is Python?
 
-Python is a high level, easy to read programming language used to build software, websites, automate tasks, analyze data and even create artificial intelligence systems.
+Python is a high-level, easy-to-read programming language used to build software, websites, automate tasks, analyze data, and create artificial intelligence systems.
 
----
+Uses of Python
 
-## What is python used for?🤔 
-It's used in:
-1. Building websites and web applications (backend development)
+Python is used in:
 
-2. Analyzing large amounts of data to find patterns and insights
+Building websites and web applications (backend development)
 
-3. Creating Artificial Intelligence and Machine Learning systems
+Data analysis and visualization
 
-4. Developing desktop software and graphical applications
+Artificial Intelligence and Machine Learning
 
-5. Creating games and interactive programs
+Automation and scripting
 
----
+Desktop application development
 
-## Importance of Python in Modern Software Development
+Game development
 
-✔ **Beginner-Friendly but Powerful**:
-Python’s clean syntax makes it easy to learn, yet powerful enough for large-scale systems.
+Importance of Python in Modern Software Development
 
-✔ **Industry Adoption**:
-Many global tech companies use Python in production systems.
+✔ Beginner-friendly but powerful
 
-✔ **Large Community Support**:
-Millions of developers contribute to libraries and frameworks.
+✔ Widely used by major tech companies
 
-✔ **Fast Development Speed**:
-Python allows developers to build prototypes and applications quickly.
+✔ Large global community support
 
+✔ Fast development speed
+
+✔ Strong libraries and frameworks ecosystem
+
+Python is one of the most versatile and in-demand programming languages today.
 ### **Java**
 <!-- [Chesemchanel]will write this section -->
+What is Java?
+
+Java is a high-level, object-oriented programming language designed to be platform-independent.
+
+Uses of Java
+
+Java is used for:
+
+Enterprise applications
+
+Android mobile app development
+
+Web applications
+
+Banking and financial systems
+
+Desktop software
+
+Importance of Java
+
+✔ Platform independent (Write Once, Run Anywhere)
+
+✔ Highly secure and stable
+
+✔ Widely used in large organizations
+
+✔ Strong performance
+
+✔ Large ecosystem and support
+
+Java remains a powerful language in enterprise software development.
 
 ### **CSS**
 <!-- [wanguilucy905-byte]will write this section -->
+What is CSS?
 
+CSS (Cascading Style Sheets) is a styling language used to design and format web pages.
+
+Uses of CSS
+
+CSS is used to:
+
+Style web pages
+
+Control layouts
+
+Add colors and fonts
+
+Create responsive designs
+
+Add animations and transitions
+
+Importance of CSS
+
+✔ Makes websites visually appealing
+
+✔ Enables responsive design
+
+✔ Improves user experience (UI/UX)
+
+✔ Works with modern frameworks
+
+✔ Essential for professional web design
+
+CSS transforms plain HTML into beautiful, modern websites.
 ### **Javascript**
 <!-- [Lamboshe]wiil write this section -->
+What is JavaScript?
+
+JavaScript is a high-level programming language used to make websites interactive and dynamic.
+
+Uses of JavaScript
+
+JavaScript is used to:
+
+Create interactive web pages
+
+Build web applications
+
+Develop mobile applications
+
+Create browser-based games
+
+Build backend systems using Node.js
+
+Importance of JavaScript
+
+✔ Essential for front-end web development
+
+✔ Runs in all modern browsers
+
+✔ Powers modern frameworks like React, Angular, and Vue
+
+✔ Enables full-stack development
+
+✔ Large developer community
+
+JavaScript is the backbone of modern web interactivity.
 
 ### **HTML**
 <!-- [Syntaxsage-tech1]will write this section -->
