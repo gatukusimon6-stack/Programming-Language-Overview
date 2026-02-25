@@ -1,275 +1,94 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Simon Gatuku | Web Developer</title>
+# Programming languages Overview
 
-<style>
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Segoe UI', sans-serif;
-}
+This repository is a collaborative mini knowledge base created by a team of four members:
+(`gatukusimon6-stack`, `Chesemchanel`, `Lamboshe`, `SyntaxSage-tech1`, `wanguilucy905-byte`).
 
-body {
-    background: #f8f9fc;
-    color: #333;
-    line-height: 1.6;
-}
+Each member is responsibale for one programming language.
 
-/* NAVIGATION */
-nav {
-    background: #111827;
-    color: white;
-    padding: 20px 8%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+---
 
-nav h1 {
-    font-size: 22px;
-}
+##Table of content
+- [Introduction](#introduction)
+- [Python](#python)
+- [JavaScript](#javascript)
+- [Java](#java)
+- [HTML](#html)
 
-nav ul {
-    list-style: none;
-    display: flex;
-    gap: 25px;
-}
+---
 
-nav ul li a {
-    color: white;
-    text-decoration: none;
-    font-weight: 500;
-    transition: 0.3s;
-}
+##Introduction
 
-nav ul li a:hover {
-    color: #38bdf8;
-}
+It provides a short description of what they are, what they are used for and their importance in the modern software development.
 
-/* HERO SECTION */
-#about {
-    padding: 80px 8%;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 50px;
-    background: white;
-}
+---
 
-#about img {
-    width: 250px;
-    border-radius: 50%;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
-}
 
-.hero-text h2 {
-    font-size: 36px;
-    margin-bottom: 20px;
-}
+### **Python**
+<!-- {gatukusimon6-stack]will write this section -->
+# Python
 
-.hero-text p {
-    max-width: 600px;
-    color: #555;
-}
+Python is a high level, easy to read programming language used to build software, websites, automate tasks, analyze data and even create artificial intelligence systems.
 
-/* SKILLS */
-.skills {
-    padding: 80px 8%;
-    text-align: center;
-}
+---
 
-.skills h2 {
-    font-size: 32px;
-    margin-bottom: 50px;
-}
+## What is python used for?🤔 
+It's used in:
+1. Building websites and web applications (backend development)
 
-.skills-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 30px;
-}
+2. Analyzing large amounts of data to find patterns and insights
 
-.skill-card {
-    background: white;
-    padding: 30px;
-    border-radius: 15px;
-    box-shadow: 0 8px 25px rgba(0,0,0,0.08);
-    transition: 0.3s;
-}
+3. Creating Artificial Intelligence and Machine Learning systems
 
-.skill-card:hover {
-    transform: translateY(-10px);
-}
+4. Developing desktop software and graphical applications
 
-.skill-card .icon {
-    font-size: 40px;
-    margin-bottom: 15px;
-}
+5. Creating games and interactive programs
 
-.skill-card h3 {
-    margin-bottom: 10px;
-}
+---
 
-/* CONTACT */
-#contact {
-    padding: 80px 8%;
-    background: white;
-}
+## Importance of Python in Modern Software Development
 
-#contact h2 {
-    text-align: center;
-    margin-bottom: 40px;
-}
+✔ **Beginner-Friendly but Powerful**:
+Python’s clean syntax makes it easy to learn, yet powerful enough for large-scale systems.
 
-form {
-    max-width: 600px;
-    margin: auto;
-}
+✔ **Industry Adoption**:
+Many global tech companies use Python in production systems.
 
-form div {
-    margin-bottom: 20px;
-}
+✔ **Large Community Support**:
+Millions of developers contribute to libraries and frameworks.
 
-form label {
-    display: block;
-    margin-bottom: 5px;
-    font-weight: 500;
-}
+✔ **Fast Development Speed**:
+Python allows developers to build prototypes and applications quickly.
 
-form input, form textarea {
-    width: 100%;
-    padding: 12px;
-    border-radius: 8px;
-    border: 1px solid #ccc;
-    outline: none;
-}
+### **Java**
+<!-- [Chesemchanel]will write this section -->
 
-form input:focus, form textarea:focus {
-    border-color: #38bdf8;
-}
+### **CSS**
+<!-- [wanguilucy905-byte]will write this section -->
 
-form button {
-    width: 100%;
-    padding: 14px;
-    background: #111827;
-    color: white;
-    border: none;
-    border-radius: 8px;
-    font-size: 16px;
-    cursor: pointer;
-    transition: 0.3s;
-}
+### **Javascript**
+<!-- [Lamboshe]wiil write this section -->
 
-form button:hover {
-    background: #38bdf8;
-}
+### **HTML**
+<!-- [Syntaxsage-tech1]will write this section -->
+# HTML 🌐
+---
+## What is HTML 
+HTML(Hyper Text Markup Language)is the standard markup language used to create and structure contents on the website 
 
-/* FOOTER */
-footer {
-    text-align: center;
-    padding: 20px;
-    background: #111827;
-    color: white;
-    margin-top: 40px;
-}
-</style>
-</head>
+## Uses
+HTML is used to:
+  >•Structure web page contents
+  >•Add texts, image and videos 
+  >•Create links between pages 
+  >•Build forms for user input 
+  >•Organize content using sections and layouts 
 
-<body>
+## Importance 
+HTML is important because:
+  >•Every website on the internet is built using HTML 
+  >•It enables responsive web design for mobile and desktop 
+  >•It forms the foundation of front-end development 
+  >•It intergrates with mordern frameworks like React, Angular and Vue 
+  >•It is essential for web apps, e-commerce platforms, dashboards and more 
 
-    <header>
-        <h1>Simon Gatuku</h1>
-        <img src="Simon.jpg.jpg" alt="Simon Gatuku sitting on   a gray couch wearing a black Under Armour cap, dark hoodie with white text reading 'IS OUR QUARANTINE', and white sleeves with tattoos. He is looking downward in a contemplative, relaxed pose. Black and white photograph." class="profile-img">
-        </header>
-
-        
-<!-- NAV -->
-<nav>
-    <h1>Simon Gatuku</h1>
-    <ul>
-        <li><a href="#about">Home</a></li>
-        <li><a href="#skills">Skills</a></li>
-        <li><a href="#contact">Contact</a></li>
-    </ul>
-</nav>
-
-<!-- HERO -->
-<section id="about">
-    <img src="simon.jpg" alt="Simon Gatuku">
-    <div class="hero-text">
-        <h2>Hi, I'm Simon 👋</h2>
-        <p>
-            I'm a passionate web developer who builds clean, responsive, and modern websites.
-            I specialize in front-end development and enjoy turning complex problems into simple,
-            beautiful, and intuitive designs. When I'm not coding, I explore new technologies
-            and continuously improve my skills.
-        </p>
-    </div>
-</section>
-
-<!-- SKILLS -->
-<section class="skills" id="skills">
-    <h2>My Skills</h2>
-    <div class="skills-container">
-
-        <div class="skill-card">
-            <div class="icon">🐍</div>
-            <h3>Python</h3>
-            <p>Used for automation, AI, backend development and problem solving.</p>
-        </div>
-
-        <div class="skill-card">
-            <div class="icon">☕</div>
-            <h3>JavaScript</h3>
-            <p>Makes websites interactive and dynamic with modern web features.</p>
-        </div>
-
-        <div class="skill-card">
-            <div class="icon">💻</div>
-            <h3>HTML</h3>
-            <p>Structures and organizes content on the web.</p>
-        </div>
-
-        <div class="skill-card">
-            <div class="icon">⚡</div>
-            <h3>CSS</h3>
-            <p>Designs and styles web pages to look professional and modern.</p>
-        </div>
-
-    </div>
-</section>
-
-<!-- CONTACT -->
-<section id="contact">
-    <h2>Contact Me</h2>
-    <form>
-        <div>
-            <label>Name</label>
-            <input type="text" placeholder="Your name">
-        </div>
-
-        <div>
-            <label>Email</label>
-            <input type="email" placeholder="Your email">
-        </div>
-
-        <div>
-            <label>Message</label>
-            <textarea rows="5" placeholder="Write your message here"></textarea>
-        </div>
-
-        <button type="submit">Send Message</button>
-    </form>
-</section>
-
-<!-- FOOTER -->
-<footer>
-    <p>© 2026 Simon Gatuku. All rights reserved.</p>
-</footer>
-
-</body>
-</html>
+Without HTML, the web as we know it would not exist.
